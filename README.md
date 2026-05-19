@@ -91,7 +91,7 @@ This **Integrated School Management System (ISMS)** project provides a complete 
 
 ### 1. Class Diagram (Page 26)
 
-![Class Diagram]
+
 
 *UML Class Diagram showing all entities in the Integrated School Management System*
 
@@ -128,7 +128,7 @@ This **Integrated School Management System (ISMS)** project provides a complete 
 
 ### 2. Behavioral Diagram (Page 27)
 
-![Behavioral Diagram]
+
 
 *Sequence/Activity Diagram illustrating interaction flow between actors and system components*
 
