@@ -11,12 +11,19 @@
 
 ## 📖 How to View This Project
 
+### Option 1: Download the PDF (Save to your computer)
 
-[![Download PDF](https://img.shields.io/badge/📄-DOWNLOAD_FULL_REPORT-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/habiba-ahmed9/ISMS-Project-Software-Requirements-Analysis/blob/main/ISMS%20Software%20Requirements%20Analysis.pdf)
+[![Download PDF](https://img.shields.io/badge/⬇️-DOWNLOAD_PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/habiba-ahmed9/ISMS-Project-Software-Requirements-Analysis/raw/main/ISMS%20Software%20Requirements%20Analysis.pdf)
 
-Click the button above to open/download the complete 31-page project documentation.
+Click the button above to **download** the PDF file directly to your computer.
 
-**Direct link:** https://github.com/habiba-ahmed9/ISMS-Project-Software-Requirements-Analysis/blob/main/ISMS%20Software%20Requirements%20Analysis.pdf
+---
+
+### Option 2: View Online (Open in browser)
+
+[![View PDF](https://img.shields.io/badge/👁️-VIEW_ONLINE-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/habiba-ahmed9/ISMS-Project-Software-Requirements-Analysis/blob/main/ISMS%20Software%20Requirements%20Analysis.pdf)
+
+Click the button above to **view** the PDF directly in your browser.
 
 
 
